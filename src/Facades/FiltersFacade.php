@@ -1,4 +1,4 @@
-<?php namespace WebEd\Base\Hook\Support\Facades;
+<?php namespace WebEd\Base\Hook\Facades;
 
 use Illuminate\Support\Facades\Facade;
 use WebEd\Base\Hook\Support\Filters;

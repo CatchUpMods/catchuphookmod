@@ -1,7 +1,7 @@
 <?php
 
-use WebEd\Base\Hook\Support\Facades\ActionsFacade;
-use WebEd\Base\Hook\Support\Facades\FiltersFacade;
+use WebEd\Base\Hook\Facades\ActionsFacade;
+use WebEd\Base\Hook\Facades\FiltersFacade;
 
 if (!function_exists('add_action')) {
     /**
